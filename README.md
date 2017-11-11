@@ -1,2 +1,3 @@
 [![Tento počítač.cz](tentopocitac.png "Tento počítač")](/dir/)
-CC0&nbsp;[pavel.blog](http://pavel.blog/)
+
+pavel&#64;tentopocitac&#46;cz&nbsp;|&nbsp;[pavel.blog](http://pavel.blog/)
