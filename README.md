@@ -1,1 +1,1 @@
-[Tento počítač.cz](tentopocitac.png "Tento počítač")
+![Tento počítač.cz](tentopocitac.png "Tento počítač")
